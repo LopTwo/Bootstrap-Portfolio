@@ -20,7 +20,15 @@ height: 80px;
     border: 20px;
 }
 
-
+#projectContainer {
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+margin: auto;
+width: 70%;
+margin-top: 10%;
+}
 
 .container {
     padding: 100px;
@@ -28,4 +36,24 @@ height: 80px;
 
 .footer {  
     color:white;
+  }
+
+  .project {
+      display: flex;
+      flex-direction:  column;
+      align-items: center;
+  }
+
+  .myFooter {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background-color: white;
+      height: 40px;
+  }
+
+  .portfolioTitle {
+      text-align: center;
+      padding: 20px;
   }
