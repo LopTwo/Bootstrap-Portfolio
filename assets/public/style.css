@@ -1,5 +1,6 @@
 html,body {
     height: 100%;
+    background-color: rgb(79, 82, 81);
 }
 
 .profile {
@@ -8,23 +9,23 @@ html,body {
 }
 
 .navbar-text {
- padding: 20px;
+ padding: 25px;
 }
 
 .bg-light {
 height: 80px;
 }
 
+.img-thumbnail {
+    border: 20px;
+}
 
 
-/* .container {
-    margin: 10px;
-} */
 
-/* .footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-   
+.container {
+    padding: 100px;
+}
+
+.footer {  
     color:white;
-  } */
+  }
