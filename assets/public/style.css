@@ -1,6 +1,9 @@
+
+
 html,body {
     height: 100%;
     background-color: rgb(79, 82, 81);
+    scroll-behavior: smooth;
 }
 
 .header {
@@ -50,7 +53,7 @@ margin-top: 10%;
   }
 
   .myFooter {
-      position: relative;
+      position: absolute;
       bottom: 0;
       left: 0;
       width: 100%;
@@ -71,4 +74,8 @@ margin-top: 10%;
 
   /* .jumbotron {
       background-color: #f8f9fa;
+  } */
+
+  /* .button {
+     
   } */
