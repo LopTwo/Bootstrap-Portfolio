@@ -74,6 +74,27 @@ margin-top: 10%;
       text-decoration-color: rgb(141, 36, 240);
   }
 
+.github {
+    list-style-image: url("../images/github.png");
+}
+
+.linked {
+    list-style-image: url("../images/linkedin.png");
+}
+
+.list {
+    display: table;
+    margin: 0 auto;
+}
+
+.connectFont {
+    font-size: 30px;
+}
+
+.lead {
+    padding: 20px;
+}
+
   /* .jumbotron {
       background-color: #f8f9fa;
   } */
