@@ -4,6 +4,8 @@ html,body {
     height: 100%;
     background-color: rgb(79, 82, 81);
     scroll-behavior: smooth;
+    font-family: 'Roboto Mono', monospace;
+
 }
 
 .header {
